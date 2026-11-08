@@ -1,5 +1,7 @@
 # Blog Writer Swarm
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kellieja/New/blob/ccr-26c2edac-ip5yu7/all_agents_tutorials/blog_writer_swarm.ipynb)
+
 Five Claude agents that turn one sentence into a finished blog post.
 
 You describe the post. The agents pass the work down the line, each doing one job, until the Editor approves it.
@@ -53,9 +55,9 @@ jupyter notebook all_agents_tutorials/blog_writer_swarm.ipynb
 
 Then choose **Run → Run All Cells**. You'll see each agent's progress print as it works. The finished post renders at the bottom.
 
-### Using Google Colab instead (no installs)
+### Using Google Colab instead (no installs, works on a phone)
 
-1. Go to [colab.research.google.com](https://colab.research.google.com) → **File → Upload notebook** and upload `blog_writer_swarm.ipynb`.
+1. Tap the **Open in Colab** button at the top of this page.
 2. Click the key icon in the left sidebar → **Add new secret**. Name it `ANTHROPIC_API_KEY`, paste your key as the value, and switch on **Notebook access**.
 3. **Runtime → Run all.**
 
