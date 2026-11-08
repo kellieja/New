@@ -319,6 +319,12 @@
       "skillPath": "skills/social/SKILL.md",
       "computedHash": "034f038c72eedb737cb837eb8fe34deecb89dfd59b2d89ccfa41d983fbe1c622"
     },
+    "social-media-manager": {
+      "source": "borghei/Claude-Skills",
+      "sourceType": "github",
+      "skillPath": "marketing/social-media-manager/SKILL.md",
+      "computedHash": "bd719a08b9e980ad54977a2add749f1af7a7f8a5f03d00f33a6fd8b70c4bd450"
+    },
     "social-media-setup": {
       "source": "sickn33/agentic-awesome-skills",
       "sourceType": "github",
