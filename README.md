@@ -53,17 +53,11 @@ jupyter notebook all_agents_tutorials/blog_writer_swarm.ipynb
 
 Then choose **Run → Run All Cells**. You'll see each agent's progress print as it works. The finished post renders at the bottom.
 
-### Using Google Colab instead
+### Using Google Colab instead (no installs)
 
 1. Go to [colab.research.google.com](https://colab.research.google.com) → **File → Upload notebook** and upload `blog_writer_swarm.ipynb`.
-2. Click the key icon in the left sidebar, add a secret named `ANTHROPIC_API_KEY`, and turn on notebook access.
-3. Add this cell at the top and run it first:
-   ```python
-   import os
-   from google.colab import userdata
-   os.environ["ANTHROPIC_API_KEY"] = userdata.get("ANTHROPIC_API_KEY")
-   ```
-4. **Runtime → Run all.**
+2. Click the key icon in the left sidebar → **Add new secret**. Name it `ANTHROPIC_API_KEY`, paste your key as the value, and switch on **Notebook access**.
+3. **Runtime → Run all.**
 
 ## Write your own post
 
