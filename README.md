@@ -61,7 +61,7 @@ Then choose **Run → Run All Cells**. You'll see each agent's progress print as
 
 ## Write your own post
 
-Find this cell in section 5 and change the sentence:
+Find this cell under "2. Run it" and change the sentence:
 
 ```python
 ws = run_swarm(
