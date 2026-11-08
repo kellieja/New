@@ -7,6 +7,12 @@
       "skillPath": ".claude/skills/brand/SKILL.md",
       "computedHash": "5c99d65bec448b3dda25049f6437a1d8d8777a705a2c597fbe5516dfeeb0a487"
     },
+    "pricing": {
+      "source": "coreyhaines31/marketingskills",
+      "sourceType": "github",
+      "skillPath": "skills/pricing/SKILL.md",
+      "computedHash": "6fbe2646324fb367e6b854f91de063996485c0b4ef4b98e7ca8b21629e3e967b"
+    },
     "prospecting": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
