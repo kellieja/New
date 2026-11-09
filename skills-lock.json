@@ -139,6 +139,12 @@
       "skillPath": "skills/directory-submissions/SKILL.md",
       "computedHash": "2fecbd48717638d1c3516dc55b0c87707e0cedac99d95105c493327f2d38ee0b"
     },
+    "drei": {
+      "source": "TerminalSkills/skills",
+      "sourceType": "github",
+      "skillPath": "skills/drei/SKILL.md",
+      "computedHash": "a38b5a15a5f00e7c7558748aadb07841d0033454faf49e76e4a39a99bce135cd"
+    },
     "emails": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
@@ -270,6 +276,12 @@
       "sourceType": "github",
       "skillPath": "skills/public-relations/SKILL.md",
       "computedHash": "8720522c6aa738b590c05ff15b2db54354f55c7c253d77a3cdec745c44a33beb"
+    },
+    "react-three-fiber": {
+      "source": "TerminalSkills/skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-three-fiber/SKILL.md",
+      "computedHash": "25dc53bf38b7c99f7fd2ff45c791b4031d892d2cb579fe5d1e1c2b912cc6a0d5"
     },
     "referrals": {
       "source": "coreyhaines31/marketingskills",
