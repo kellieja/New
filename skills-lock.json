@@ -139,6 +139,12 @@
       "skillPath": "skills/directory-submissions/SKILL.md",
       "computedHash": "2fecbd48717638d1c3516dc55b0c87707e0cedac99d95105c493327f2d38ee0b"
     },
+    "drei": {
+      "source": "TerminalSkills/skills",
+      "sourceType": "github",
+      "skillPath": "skills/drei/SKILL.md",
+      "computedHash": "a38b5a15a5f00e7c7558748aadb07841d0033454faf49e76e4a39a99bce135cd"
+    },
     "emails": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
