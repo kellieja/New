@@ -163,6 +163,12 @@
       "skillPath": "skills/image/SKILL.md",
       "computedHash": "1e7b42c51ff5edb5b8861ea18fa98118db74a9a03f464db518b50a5cd06e788d"
     },
+    "img2threejs": {
+      "source": "img2threejs/img2threejs",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "7dad759c5eef5d887930beced08ad5779ea2e7980132ba673361d5b6569ef699"
+    },
     "influencer-marketing": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
