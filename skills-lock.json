@@ -301,6 +301,12 @@
       "skillPath": "skills/schema/SKILL.md",
       "computedHash": "6809d198493d08931ea1c35ab40d2fca27c6ae63a07a4bc183b75df51243a374"
     },
+    "seedance-ai-avatar": {
+      "source": "rediumvex/ai-video-generator-claude",
+      "sourceType": "github",
+      "skillPath": "skills/09-ai-avatar/SKILL.md",
+      "computedHash": "fd5302eb0e22e977de052b0040df3f149b2998932d83df66d157f173856bb8bc"
+    },
     "seo-audit": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
