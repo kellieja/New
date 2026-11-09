@@ -1,6 +1,12 @@
 {
   "version": 1,
   "skills": {
+    "3d-ui": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "skillPath": "plugins/agentic-awesome-skills/skills/design-it/3d-ui/SKILL.md",
+      "computedHash": "b2e3f9682dc21b6c64fdba06f47f5819cc33becb9ea5f51d5c1dd5cdff7a3179"
+    },
     "ab-testing": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
